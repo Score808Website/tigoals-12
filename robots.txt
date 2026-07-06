@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tigoals12.score808.eu.org/sitemap.xml
